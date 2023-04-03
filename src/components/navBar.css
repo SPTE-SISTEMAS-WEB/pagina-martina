@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-color: blue;
+    border-style: double;
+    
+  }
+  
+  .martina{
+    width: 30%;
+    height: 20%;
+  }
+ 
+  
+  .menu{
+    color: black;
+    font-size: 20px;
+    
+  }
+  
+  .nav-link{
+    color: dodgerblue
+  }
